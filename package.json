@@ -1,0 +1,15 @@
+{
+    "name": "reconnaissance",
+    "version": "1.0.0",
+    "description": "This repo contains some reconnaissance tools for vulnerability and penetration testing made using javascript",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Baldeep Singh",
+    "license": "MIT",
+    "dependencies": {
+      "csv-parser": "^3.0.0"
+    }
+  }
+  
